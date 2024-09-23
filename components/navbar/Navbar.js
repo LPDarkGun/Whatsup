@@ -9,19 +9,19 @@ const menuItems = [
   },
   {
     title: "Shop",
-    href: "/shop",
+    href: "/Shop",
   },
   {
     title: "About",
-    href: "/about",
+    href: "/About",
   },
   {
     title: "Lookbook",
-    href: "/lookbook",
+    href: "/LookBook",
   },
   {
     title: "Contact",
-    href: "/contact",
+    href: "/Contact",
   },
 ]
 

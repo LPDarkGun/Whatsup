@@ -101,7 +101,7 @@ export default function ResponsiveWhatsUpDashboard() {
 
       <section className="w-screen py-24 sm:py-24 md:py-32 lg:py-40 xl:py-64">
         <VelocityScroll
-          text="What's up What's up"
+          text="Welcome"
           default_velocity={3}
           className="font-display text-center text-4xl font-bold tracking-[-0.02em] drop-shadow-sm md:text-9xl md:leading-[5rem]"
         />
