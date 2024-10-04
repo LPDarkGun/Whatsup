@@ -34,15 +34,15 @@ export default function ResponsiveWhatsUpDashboard() {
   })
 
   const links = [
-    "https://www.whatsupmoms.com",
-    "https://www.whatsupmedia.com",
-    "https://www.reddit.com/r/whatsup",
-    "https://www.whatsupgold.com",
-    "https://www.whatsupmag.com",
-    "https://www.whatsapp.com",
-    "https://www.popbuzz.com",
-    "https://www.whatsupin.io",
-    "https://www.hellomagazine.com",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
   ]
 
   const fancyVariants = {
